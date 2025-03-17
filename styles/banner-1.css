@@ -1,0 +1,25 @@
+.banner-1 {
+    margin-top: 5em;
+    background-color: var(--cor-de-fundo);
+    text-align: center;
+}
+
+.banner-1__chamada {
+    color: var(--vermelho);
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.banner-1__titulo {
+    color: var(--azul);
+    font-size: 48px;
+    font-weight: 600;
+    padding: 0.5em 1em 1em 1em;
+}
+
+.banner-1__txt {
+    color: var(--cinza-claro);
+    font-size: 20px;
+    margin-inline: 40em;
+    line-height: 25px;
+}

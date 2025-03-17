@@ -1,0 +1,70 @@
+.vagas {
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+    padding: 96px 0 64px 0;
+}
+
+.vagas__subtitulo {
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--vermelho);
+    background-color: #f0e9e9;
+    padding: 0.7em;
+    border-radius: 16px;
+    margin-bottom: 1em;
+}
+
+.vagas__titulo {
+    font-size: 36px;
+    font-weight: 600;
+    color: var(--azul);
+    margin-bottom: 0.8em;
+}
+
+.vagas__txt {
+    color: var(--cinza-claro);
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 2em;
+}
+
+.vagas__img {
+    width: 60%;
+}
+
+/* VAGAS PARTE 2 */
+
+.lista-vagas {
+    padding: 1em 50em 1em 50em;
+}
+
+.vaga__area {
+    margin-bottom: 1.5em;
+    font-size: 20px;
+    color: var(--azul);
+    font-weight: 500;
+}
+
+.vaga__titulo {
+    margin-bottom: 1em;
+    color: var(--azul);
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.vaga {
+    border: 1px solid var(--gelo);
+    border-radius: 1rem;
+    margin-bottom: 2em;
+    padding: 1.5rem 1.5rem 1.75rem 1.5rem;
+}
+
+.vaga__informacoes {
+    color: var(--cinza-claro);
+    font-size: 16px;
+    font-weight: 500;
+    display: flex;
+    gap: 1.5rem;
+}
