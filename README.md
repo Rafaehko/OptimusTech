@@ -1,2 +1,2 @@
 # OptimusTech
-Treinamento realizado
+Treinamento de html e css realizado
